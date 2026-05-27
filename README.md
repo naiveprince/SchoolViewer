@@ -127,7 +127,7 @@ GET /api/schools?name={name}
 Android Studio でこのリポジトリを開きます。
 
 ```bash
-git clone https://github.com/bull2023x/SchoolViewer.git
+git clone https://github.com/naiveprince/SchoolViewer.git
 cd SchoolViewer
 ```
 
