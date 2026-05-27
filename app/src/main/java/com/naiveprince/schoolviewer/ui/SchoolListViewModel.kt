@@ -1,10 +1,10 @@
-package com.yonishik.schoolviewer.ui
+package com.naiveprince.schoolviewer.ui
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.yonishik.schoolviewer.data.SchoolRepository
-//import com.yonishik.schoolviewer.model.SchoolV2Dto
-import com.yonishik.schoolviewer.model.SchoolV2Dto
+import com.naiveprince.schoolviewer.data.SchoolRepository
+//import com.naiveprince.schoolviewer.model.SchoolV2Dto
+import com.naiveprince.schoolviewer.model.SchoolV2Dto
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

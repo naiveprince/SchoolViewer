@@ -1,4 +1,4 @@
-package com.yonishik.schoolviewer.model
+package com.naiveprince.schoolviewer.model
 
 data class SchoolV2Dto(
     val id: Long,

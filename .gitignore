@@ -16,3 +16,6 @@ local.properties
 app/release-keystore.jks
 app/release-keystore.pem
 app/build/
+.idea/
+.gradle/
+build/

@@ -1,6 +1,6 @@
-package com.yonishik.schoolviewer
-import com.yonishik.schoolviewer.ui.SchoolDetailScreen
-import com.yonishik.schoolviewer.R
+package com.naiveprince.schoolviewer
+import com.naiveprince.schoolviewer.ui.SchoolDetailScreen
+import com.naiveprince.schoolviewer.R
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -52,14 +52,14 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.yonishik.schoolviewer.data.SchoolRepository
-//import com.yonishik.schoolviewer.model.SchoolV2Dto
-import com.yonishik.schoolviewer.model.SchoolV2Dto
-import com.yonishik.schoolviewer.network.ApiClient
-import com.yonishik.schoolviewer.ui.SchoolDetailScreen
-import com.yonishik.schoolviewer.ui.SchoolListViewModel
-import com.yonishik.schoolviewer.ui.SchoolListViewModelFactory
-import com.yonishik.schoolviewer.ui.theme.SchoolViewerTheme
+import com.naiveprince.schoolviewer.data.SchoolRepository
+//import com.naiveprince.schoolviewer.model.SchoolV2Dto
+import com.naiveprince.schoolviewer.model.SchoolV2Dto
+import com.naiveprince.schoolviewer.network.ApiClient
+import com.naiveprince.schoolviewer.ui.SchoolDetailScreen
+import com.naiveprince.schoolviewer.ui.SchoolListViewModel
+import com.naiveprince.schoolviewer.ui.SchoolListViewModelFactory
+import com.naiveprince.schoolviewer.ui.theme.SchoolViewerTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

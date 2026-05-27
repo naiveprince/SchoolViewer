@@ -1,6 +1,6 @@
-package com.yonishik.schoolviewer.ui
-import com.yonishik.schoolviewer.ui.SchoolDetailScreen
-import com.yonishik.schoolviewer.R
+package com.naiveprince.schoolviewer.ui
+import com.naiveprince.schoolviewer.ui.SchoolDetailScreen
+import com.naiveprince.schoolviewer.R
 import android.content.Intent
 import android.net.Uri
 import androidx.compose.foundation.Image
@@ -27,8 +27,8 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-//  import com.yonishik.schoolviewer.R
-import com.yonishik.schoolviewer.model.SchoolV2Dto
+//  import com.naiveprince.schoolviewer.R
+import com.naiveprince.schoolviewer.model.SchoolV2Dto
 
 @Composable
 fun SchoolDetailScreen(school: SchoolV2Dto?) {

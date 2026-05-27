@@ -1,8 +1,8 @@
-package com.yonishik.schoolviewer.network
+package com.naiveprince.schoolviewer.network
 
-//import com.yonishik.schoolviewer.model.SchoolV2Dto
-import com.yonishik.schoolviewer.model.SchoolV2Dto
-import com.yonishik.schoolviewer.model.VersionDto
+//import com.naiveprince.schoolviewer.model.SchoolV2Dto
+import com.naiveprince.schoolviewer.model.SchoolV2Dto
+import com.naiveprince.schoolviewer.model.VersionDto
 import retrofit2.http.GET
 import retrofit2.http.Query
 

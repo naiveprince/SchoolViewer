@@ -1,8 +1,8 @@
-package com.yonishik.schoolviewer.ui
+package com.naiveprince.schoolviewer.ui
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.yonishik.schoolviewer.data.SchoolRepository
+import com.naiveprince.schoolviewer.data.SchoolRepository
 
 class SchoolListViewModelFactory(
     private val repository: SchoolRepository

@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.yonishik.schoolviewer"
+    namespace = "com.naiveprince.schoolviewer"
     compileSdk = 35
 
     signingConfigs {
@@ -17,7 +17,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.yonishik.schoolviewer"
+        applicationId = "com.naiveprince.schoolviewer"
         minSdk = 26
         targetSdk = 35
         versionCode = 6

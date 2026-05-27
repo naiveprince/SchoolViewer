@@ -1,4 +1,4 @@
-package com.yonishik.schoolviewer.network
+package com.naiveprince.schoolviewer.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

@@ -82,7 +82,7 @@ SchoolViewer/
 │   └── src/
 │       ├── main/
 │       │   ├── AndroidManifest.xml
-│       │   └── java/com/yonishik/schoolviewer/
+│       │   └── java/com/naiveprince/schoolviewer/
 │       │       ├── MainActivity.kt
 │       │       ├── data/
 │       │       ├── model/
@@ -158,7 +158,7 @@ Release APK を作成する場合:
 API 接続先は以下のファイルで設定されています。
 
 ```text
-app/src/main/java/com/yonishik/schoolviewer/network/ApiClient.kt
+app/src/main/java/com/naiveprince/schoolviewer/network/ApiClient.kt
 ```
 
 ローカル開発環境の API に接続する場合は、例として以下のように変更できます。
